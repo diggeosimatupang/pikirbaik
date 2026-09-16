@@ -3,8 +3,8 @@
    Main JavaScript
    Used by:
    - index.html
-   - kenal-pikirbaik.html
-   - feedback.html
+   - ../kenal-pikirbaik
+   - ../feedback.html
 
    Responsibilities:
    - Header scroll state
